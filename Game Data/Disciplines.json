@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "TraitId": "DI01",
+    "Title": "Conjurer",
+    "Description": "Illusions, traps, minions -- you boldly tap into the arcana to summon something from nothing.",
+    "Personality": "Bravery",
+    "Training": "Magic"
+  },
+  {
+    "Id": 2,
+    "TraitId": "DI02",
+    "Title": "Enchanter",
+    "Description": "A",
+    "Personality": "Wit",
+    "Training": "Magic"
+  },
+  {
+    "Id": 3,
+    "TraitId": "DI03",
+    "Title": "Warlock",
+    "Description": "A",
+    "Personality": "Strength",
+    "Training": "Magic"
+  },
+  {
+    "Id": 4,
+    "TraitId": "DI04",
+    "Title": "Philosopher",
+    "Description": "A",
+    "Personality": "Bravery",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 5,
+    "TraitId": "DI05",
+    "Title": "Tactician",
+    "Description": "A",
+    "Personality": "Wit",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 6,
+    "TraitId": "DI06",
+    "Title": "Pioneer",
+    "Description": "A",
+    "Personality": "Strength",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 7,
+    "TraitId": "DI07",
+    "Title": "Druid",
+    "Description": "A",
+    "Personality": "Bravery",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 8,
+    "TraitId": "DI08",
+    "Title": "Bard",
+    "Description": "A",
+    "Personality": "Wit",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 9,
+    "TraitId": "DI09",
+    "Title": "Rogue",
+    "Description": "A",
+    "Personality": "Strength",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 10,
+    "TraitId": "DI10",
+    "Title": "Soldier",
+    "Description": "A",
+    "Personality": "Bravery",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 11,
+    "TraitId": "DI11",
+    "Title": "Knight",
+    "Description": "A",
+    "Personality": "Wit",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 12,
+    "TraitId": "DI12",
+    "Title": "Barbarian",
+    "Description": "A",
+    "Personality": "Strength",
+    "Training": "Warfare"
+  }
+]
