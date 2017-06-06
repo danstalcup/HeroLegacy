@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "TraitId": "BG01",
+    "Name": "Anarchist",
+    "Description": "Though you're a noble, you see that the danger of the world is corruption and broken institutions, not monsters and burglars. You only agree to join the system to become strong enough to someday bring it down.",
+    "Pers1": "Bravery",
+    "Pers2": "Bravery",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 2,
+    "TraitId": "BG02",
+    "Name": "Newsie",
+    "Description": "You grew up in a poor children's home, forced to make your living by selling the day's news to nobles. You have extra, extra streetwise.",
+    "Pers1": "Bravery",
+    "Pers2": "Wit",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 3,
+    "TraitId": "BG03",
+    "Name": "Political Dissident",
+    "Description": "Using protest and sabotage, you've fought against the current regime and cultivated dreams of a better society.",
+    "Pers1": "Bravery",
+    "Pers2": "Strength",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 4,
+    "TraitId": "BG04",
+    "Name": "Great Dreamer",
+    "Description": "For as long as you can remember, you've been thinking about the deeper things in life, and arguing about them with your increasingly flustered parents.",
+    "Pers1": "Wit",
+    "Pers2": "Wit",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 5,
+    "TraitId": "BG05",
+    "Name": "Governor's Child",
+    "Description": "You're father is the governor of the region. He raised you to stand up straight, respect your elders, and act with dignity.",
+    "Pers1": "Wit",
+    "Pers2": "Strength",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 6,
+    "TraitId": "BG06",
+    "Name": "Inciter",
+    "Description": "Though you grew up an ordinary commoner, you spent your younger days butting heads with higher ups through vicious words and physical instigation.",
+    "Pers1": "Strength",
+    "Pers2": "Strength",
+    "Training": "Rhetoric"
+  },
+  {
+    "Id": 7,
+    "TraitId": "BG07",
+    "Name": "Refugee",
+    "Description": "You grew up in an foreign land with an oppressive regime.",
+    "Pers1": "Bravery",
+    "Pers2": "Bravery",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 8,
+    "TraitId": "BG08",
+    "Name": "Clever Farmhand",
+    "Description": "Your family have been simple farmers for generations. But you just don't see things the way they do; you love ideas, and want more.",
+    "Pers1": "Bravery",
+    "Pers2": "Wit",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 9,
+    "TraitId": "BG09",
+    "Name": "Raised by Goblins",
+    "Description": "A goblin couple found you as an abandoned baby and raised you. You respect and understand their brutish but vibrant culture.",
+    "Pers1": "Bravery",
+    "Pers2": "Strength",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 10,
+    "TraitId": "BG10",
+    "Name": "Child of Diplomat",
+    "Description": "You spent your life immersed in tactics and politics as your father worked with local and foreign officers.",
+    "Pers1": "Wit",
+    "Pers2": "Wit",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 11,
+    "TraitId": "BG11",
+    "Name": "Child of Rebel Artist",
+    "Description": "Though you love art like your parents, your main aptitude is fighting back.",
+    "Pers1": "Wit",
+    "Pers2": "Strength",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 12,
+    "TraitId": "BG12",
+    "Name": "Lumberjack",
+    "Description": "Your family's business is chopping and lugging trees. You know how to hold your own and use your muscle to your advantage.",
+    "Pers1": "Strength",
+    "Pers2": "Strength",
+    "Training": "Warfare"
+  },
+  {
+    "Id": 13,
+    "TraitId": "BG13",
+    "Name": "The Mark",
+    "Description": "You have a rare skin discoloration on your face -- of a symbol associated with an ancient evil empire, making you an outcast. You've had to survive on your own wit and fortitude",
+    "Pers1": "Bravery",
+    "Pers2": "Bravery",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 14,
+    "TraitId": "BG14",
+    "Name": "Street Urchin",
+    "Description": "Ruddy and always underfed, no parents, you struggled to survive in the busy city until your fantasy came true and you were plucked off the streets.",
+    "Pers1": "Bravery",
+    "Pers2": "Wit",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 15,
+    "TraitId": "BG15",
+    "Name": "Nomad",
+    "Description": "You never knew a community other than your family or a home other than the ground you walked on.",
+    "Pers1": "Bravery",
+    "Pers2": "Strength",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 16,
+    "TraitId": "BG16",
+    "Name": "Lone Shadow",
+    "Description": "You left your parents when you were barely a toddler and have spent the rest of your young life hiding in shadows, thinking no one knew you existed -- until you woke up with an invitation from the school.",
+    "Pers1": "Wit",
+    "Pers2": "Wit",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 17,
+    "TraitId": "BG17",
+    "Name": "Cutpurse",
+    "Description": "The dense city streets were your home. You supported your sick parents by taking anything you could grab, whether by guile or force.",
+    "Pers1": "Wit",
+    "Pers2": "Strength",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 18,
+    "TraitId": "BG18",
+    "Name": "Young Criminal",
+    "Description": "You grew up in a poor household and spent your days causing trouble: Stealing, fighting, and avoiding the local guards.",
+    "Pers1": "Strength",
+    "Pers2": "Strength",
+    "Training": "Stealth"
+  },
+  {
+    "Id": 19,
+    "TraitId": "BG19",
+    "Name": "Zealot",
+    "Description": "You were raised by a small, extremist guild of magicians. You will do anything to defend the arcane arts.",
+    "Pers1": "Bravery",
+    "Pers2": "Bravery",
+    "Training": "Magic"
+  },
+  {
+    "Id": 20,
+    "TraitId": "BG20",
+    "Name": "Street Trickster",
+    "Description": "Though a poor orphan, you made money by tricking people with magical sleight of hand you taught yourself.",
+    "Pers1": "Bravery",
+    "Pers2": "Wit",
+    "Training": "Magic"
+  },
+  {
+    "Id": 21,
+    "TraitId": "BG21",
+    "Name": "Last of a People",
+    "Description": "You come from a small island that was envoloped by a magical catastrophe. You were the only survivor and washed ashore near a local harbor.",
+    "Pers1": "Bravery",
+    "Pers2": "Strength",
+    "Training": "Magic"
+  },
+  {
+    "Id": 22,
+    "TraitId": "BG22",
+    "Name": "Magical Avatar",
+    "Description": "You lived a humble early life, but are blessed and cursed with a gift: Ancient spirits possess you at unexpected moments, bringing you flashes of insight.",
+    "Pers1": "Wit",
+    "Pers2": "Wit",
+    "Training": "Magic"
+  },
+  {
+    "Id": 23,
+    "TraitId": "BG23",
+    "Name": "Sorceror's Apprentice",
+    "Description": "A sorceror witnessed you do a cantrip when you were a child and has raised you to use arcane arts to solve complex problems.",
+    "Pers1": "Wit",
+    "Pers2": "Strength",
+    "Training": "Magic"
+  },
+  {
+    "Id": 24,
+    "TraitId": "BG24",
+    "Name": "Holy Paragon",
+    "Description": "Your parents cultivated your magical skill and trained you to defend the righteous through arcana and force.",
+    "Pers1": "Strength",
+    "Pers2": "Strength",
+    "Training": "Magic"
+  }
+]
