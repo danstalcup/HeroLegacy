@@ -11,7 +11,7 @@
     "Id": 2,
     "TraitId": "DI02",
     "Title": "Enchanter",
-    "Description": "A",
+    "Description": "Use the arcane to bring life to the mundane by bewitching, empowering, and ensorcelling.",
     "Personality": "Wit",
     "Training": "Magic"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "TraitId": "DI03",
     "Title": "Warlock",
-    "Description": "A",
+    "Description": "You yield the arcane like a soldier wields a sword: with both force and destructive grace.",
     "Personality": "Strength",
     "Training": "Magic"
   },
@@ -27,7 +27,7 @@
     "Id": 4,
     "TraitId": "DI04",
     "Title": "Philosopher",
-    "Description": "A",
+    "Description": "You seek to further understand the secrets of the universe, and to pass those insights on",
     "Personality": "Bravery",
     "Training": "Rhetoric"
   },
@@ -35,7 +35,7 @@
     "Id": 5,
     "TraitId": "DI05",
     "Title": "Tactician",
-    "Description": "A",
+    "Description": "The mechanics of the battlefield are your expertise. Use cunning and strategy to lead your soldiers to victory.",
     "Personality": "Wit",
     "Training": "Rhetoric"
   },
@@ -43,7 +43,7 @@
     "Id": 6,
     "TraitId": "DI06",
     "Title": "Pioneer",
-    "Description": "A",
+    "Description": "You trailblaze through the wilds, helping your people to overcome dangers both natural and man-made.",
     "Personality": "Strength",
     "Training": "Rhetoric"
   },
@@ -51,7 +51,7 @@
     "Id": 7,
     "TraitId": "DI07",
     "Title": "Druid",
-    "Description": "A",
+    "Description": "You live your life as a rogue and outsider -- one with an uncommon bond with nature, even using it to change your form.",
     "Personality": "Bravery",
     "Training": "Stealth"
   },
@@ -59,7 +59,7 @@
     "Id": 8,
     "TraitId": "DI08",
     "Title": "Bard",
-    "Description": "A",
+    "Description": "With word, song, and theater, you both entertain and inspire those around you.",
     "Personality": "Wit",
     "Training": "Stealth"
   },
@@ -67,7 +67,7 @@
     "Id": 9,
     "TraitId": "DI09",
     "Title": "Rogue",
-    "Description": "A",
+    "Description": "You use cunning, finesse, and treachery to take manipulate your surroundings to your advantage.",
     "Personality": "Strength",
     "Training": "Stealth"
   },
@@ -75,7 +75,7 @@
     "Id": 10,
     "TraitId": "DI10",
     "Title": "Soldier",
-    "Description": "A",
+    "Description": "Discipline and strength make you a destructive force on the battlefield, and a leader off it.",
     "Personality": "Bravery",
     "Training": "Warfare"
   },
@@ -83,7 +83,7 @@
     "Id": 11,
     "TraitId": "DI11",
     "Title": "Knight",
-    "Description": "A",
+    "Description": "Using your might and virtue, you fight for your noble cause with relentless zeal.",
     "Personality": "Wit",
     "Training": "Warfare"
   },
@@ -91,7 +91,7 @@
     "Id": 12,
     "TraitId": "DI12",
     "Title": "Barbarian",
-    "Description": "A",
+    "Description": "Where other fighters restrain themselves in the name of honor, you bring a terrifying frenzy and bloodlust.",
     "Personality": "Strength",
     "Training": "Warfare"
   }
